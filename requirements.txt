@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+pydantic
+rich
+pytest
+# Opcional: vista previa de la miniatura en la interfaz gráfica (python gui.py)
+Pillow

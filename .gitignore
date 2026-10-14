@@ -1,0 +1,36 @@
+# Descargas generadas por la aplicación
+downloads/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+.coverage
+
+# Distribución / empaquetado
+build/
+dist/
+*.spec
+
+# Configuración local / secretos
+.env
+.env.local
+
+# Logs
+*.log
+
+# Editores y sistema
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
